@@ -16,6 +16,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1mjJi675wb1gho7G10azFhQQg1U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -165,30 +166,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="183" key="GridCell.Tab.0.bottom" timestamp="1611196098391">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1515" height="179" key="GridCell.Tab.0.bottom" timestamp="1611220584118">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="748" height="173" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1610612193702" />
+    <state width="1515" height="179" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611220584118" />
     <state width="1515" height="183" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611196098391" />
-    <state width="1515" height="183" key="GridCell.Tab.0.center" timestamp="1611196098390">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1515" height="179" key="GridCell.Tab.0.center" timestamp="1611220584118">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="748" height="173" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1610612193702" />
+    <state width="1515" height="179" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1611220584118" />
     <state width="1515" height="183" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611196098390" />
-    <state width="1515" height="183" key="GridCell.Tab.0.left" timestamp="1611196098388">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1515" height="179" key="GridCell.Tab.0.left" timestamp="1611220584118">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="748" height="173" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1610612193701" />
+    <state width="1515" height="179" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1611220584118" />
     <state width="1515" height="183" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611196098388" />
-    <state width="1515" height="183" key="GridCell.Tab.0.right" timestamp="1611196098390">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1515" height="179" key="GridCell.Tab.0.right" timestamp="1611220584118">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="748" height="173" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1610612193702" />
+    <state width="1515" height="179" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1611220584118" />
     <state width="1515" height="183" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611196098390" />
     <state x="540" y="0" key="SettingsEditor" timestamp="1610169308138">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="540" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1610169308138" />
+    <state x="333" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1611206859012">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="333" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1611206859012" />
     <state x="814" y="106" width="672" height="678" key="search.everywhere.popup" timestamp="1610091986979">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

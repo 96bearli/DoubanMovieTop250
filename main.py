@@ -43,7 +43,6 @@ def getHtml(url, i):  # 获取一页
         req = urllib.request.Request(url=url, headers=headers)
     except Exception as reqError:
         # reqError = "reqError:urlline" % str(i+1) + reqError
-
         log(str(i + 1))
         log(url)
         log(reqError)
